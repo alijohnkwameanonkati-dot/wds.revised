@@ -1,0 +1,6 @@
+{
+  "name": "WDS — Writers and Debators Society | OLAG Ghana",
+  "description": "The digital home for student journalism, structured debate, creative writing, and community recognition at Our Lady of Grace Senior High School (OLAG), Ghana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
